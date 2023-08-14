@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5c19d2b9.css","mappings":"AAAA,MACE,iBACF,CAEA,SACE,SACF","sources":["App.css"],"sourcesContent":[".show {\n  text-align: center;\n}\n\n.show h1{\n  color: red;\n}"],"names":[],"sourceRoot":""}
